@@ -1,0 +1,31 @@
+{
+  "name": "@thzero/gd-library_server_random",
+  "type": "module",
+  "version": "0.8.2",
+  "version_major": 0,
+  "version_minor": 8,
+  "version_patch": 2,
+  "version_date": "05/11/2024",
+  "description": "",
+  "author": "thZero",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzero/gd-library_server_random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thzero/gd-library_server_random/issues"
+  },
+  "engines": {
+    "node": ">=12.8.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli-id": "library-cli --generate",
+    "cli-update": "library-cli --updateversion --pi"
+  },
+  "dependencies": {
+    "@thzero/library_common_service": "^0.18",
+    "random-js": "^2.1.0"
+  }
+}
