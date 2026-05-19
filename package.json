@@ -1,11 +1,11 @@
 {
   "name": "@thzero/gd-library_server_random",
   "type": "module",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "version_major": 0,
   "version_minor": 8,
-  "version_patch": 2,
-  "version_date": "05/11/2024",
+  "version_patch": 3,
+  "version_date": "05/19/2026",
   "description": "",
   "author": "thZero",
   "repository": {
