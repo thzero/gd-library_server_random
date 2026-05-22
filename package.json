@@ -6,8 +6,10 @@
   "version_minor": 8,
   "version_patch": 6,
   "version_date": "05/19/2026",
-  "description": "",
-  "author": "thZero",
+  "author": "thZero.com",
+  "author_url": "https://www.thzero.com",
+  "copyright": "2020-2026",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thzero/gd-library_server_random.git"
