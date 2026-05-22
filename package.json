@@ -16,7 +16,7 @@
     "url": "https://github.com/thzero/gd-library_server_random/issues"
   },
   "engines": {
-    "node": ">=12.8.3"
+    "node": ">=22"
   },
   "main": "index.js",
   "scripts": {
